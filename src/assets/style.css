@@ -1,0 +1,32 @@
+.errorMessage {
+  color: #cc0000;
+  margin-bottom: 12px;
+}
+#invoice-template {
+  padding: 1.5rem;
+  /* margin-left: 240px; */
+}
+
+.sign {
+  width: 150px;
+}
+
+.title-action i {
+  margin-right: 8px;
+}
+
+.title-action a {
+  font-size: 16px;
+}
+
+.b-font {
+  font-weight: 700;
+}
+
+.pink {
+  color: #e91e63;
+}
+
+.bg-grey.bg-lighten-4 {
+  background-color: #f5f5f5;
+}
